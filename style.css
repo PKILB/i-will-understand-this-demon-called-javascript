@@ -1,0 +1,17 @@
+body {
+    background-image: url(https://www.yacoline.com/upload/photos/2015/08/d11764862f3d68374598773df1698887.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.hero-size {
+    max-width: 210px;
+    max-height: 160px;
+    transform: scaleX(-1);
+}
+
+.boss-size {
+    max-width: 280px;
+    max-height: 200px;
+}
